@@ -1,0 +1,74 @@
+* {
+  margin-top: 0px;
+  padding: 4px 4px 4px 4px;
+  background-color: #0A2E36;
+}
+
+h1 {
+  background-color: #F0C808;
+  color: #DD1C1A;
+  margin-top: 0px;
+  padding: 0px 0px 0px 0px;
+  margin: 1px;
+}
+
+h1:hover {
+  background-color: #DD1C1A;
+  color: #F0C808;
+}
+
+body {
+  border: 5px solid white;
+  border-radius: 5px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  background-color: #06AED5;
+}
+
+#nillabutton {
+  background-color: #09A129;
+  border-radius: 15px;
+  margin-top: 50px;
+  margin-left: 0px;
+}
+
+#nillabutton:hover {
+  background-color: #F0C808;
+  color: #DD1C1A;
+}
+
+#underscorebutton {
+  background-color: #09A129;
+  border-radius: 15px;
+  margin-top:  0px;
+  margin-left: 0px;
+}
+
+#underscorebutton:hover {
+  background-color: #F0C808;
+  color: #DD1C1A;
+}
+
+#awesome-index {
+  color: #DD1C1A;
+  padding: 2px 2px 2px 2px;
+  margin-top: 5px;
+  background-color: #06AED5;
+}
+
+#awesome-index:hover {
+  font-size: 200%;
+}
+
+#awesome-index-2 {
+  color: #DD1C1A;
+  padding: 2px 2px 2px 2px;
+  margin-top: 5px;
+  background-color: #06AED5;
+}
+
+#awesome-index-2:hover {
+  font-size: 200%;
+}
