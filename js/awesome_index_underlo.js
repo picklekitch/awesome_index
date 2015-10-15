@@ -38,7 +38,7 @@ $(document).ready(function(){
   var averageAwesome = function(array){
     var totalAwesome = 0;
     var totalProgrammer = 0; //the average awesome index is the average of just the programmers... those without occupation === 'programmer' should not affect the average
-    _.each(array, function(val, index){  //_.each() is sort of like a for loop in underscore... it performs an action on each array index position.
+    _.map(array, function(val, index){  //_.map() is sort of like a for loop in underscore... it performs an action on each array index position.
       if(array[index].occupation === 'programmer'){ //using array[index] as a placeholder for peopleArray[i]
         totalAwesome += array[index].awesomeIndex;
         ++totalProgrammer;
