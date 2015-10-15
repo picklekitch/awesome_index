@@ -1,3 +1,5 @@
+//Calculating the average awesome index using some straight up vanilla js
+
 "use strict"
 var peopleArray = [
   {

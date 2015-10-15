@@ -1,2 +1,2 @@
 //Javascript Development Accelerator Code Challenge - pt 1 - awesome index!
-# awesome_index
+# Calculate the average awesome index for programmers in the array. Do it twice: once with vanilla js, once with underscore or lodash and jQuery. For loops and if statements!
